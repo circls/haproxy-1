@@ -5,10 +5,17 @@ HAProxy Role for Kazoo Ansible
 
 Requirements
 ------------
+
+None
+
+Role Variables
+--------------
+
 None
 
 Dependencies
 ------------
+
 None
 
 Example Playbook
